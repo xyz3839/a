@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">NumberConverter</string>
-    <string-array name="conversion_types">
-        <item>Binary</item>
-        <item>Hexadecimal</item>
-    </string-array>
-</resources>
