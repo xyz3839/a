@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- activity_main.xml -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/buttonSound1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sound 1" />
+
+<!--    <Button-->
+<!--        android:id="@+id/buttonSound2"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Sound 2" />-->
+
+    <!-- Add more buttons for additional sounds -->
+
+</LinearLayout>
